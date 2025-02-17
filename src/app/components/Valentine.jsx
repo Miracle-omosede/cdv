@@ -68,7 +68,7 @@ const ValentineApp = () => {
                 className="w-full max-w-[250px] rounded-lg shadow-lg"
               />
               <h1 className="text-3xl md:text-5xl font-bold text-white">
-                Countdown begins... ⏳
+                Just negodu this beauty as we countdown... ⏳
               </h1>
               <p className="text-lg md:text-2xl text-red-400 font-semibold">
                 {countdown}
